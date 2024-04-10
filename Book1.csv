@@ -2,13 +2,13 @@ No.,Government Name,Website URL,Government Type,ID
 1,The National Park Service,https://www.nps.gov/index.htm,General Public Services,1
 2,The National Aeronautics and Space Administration,https://www.nasa.gov/,General Public Services,2
 3,The World Factbook - CIA,https://www.cia.gov/the-world-factbook/,General Public Services,3
-4,National Gallery of Art,https://www.nga.gov/,Recreation Culture and Religion",4
+4,National Gallery of Art,https://www.nga.gov/,Recreation Culture and Religion ,4
 5,The Texas Department of Motor Vehicles,https://www.txdmv.gov/,General Public Services,5
 6,California State Parks,https://www.parks.ca.gov/,General Public Services,6
 7,Texas Parks and Wildlife,https://tpwd.texas.gov/,Economic Affairs,7
 8,Texas Health and Human Services,https://www.hhs.texas.gov/services/health,Health,8
 9,Food Assistance,https://www.usa.gov/food-help,Social Protection,9
-10,Travel State Gov,https://travel.state.gov/content/travel.html,"Recreation, Culture, and Religion",10
+10,Travel State Gov,https://travel.state.gov/content/travel.html,"Recreation Culture and Religion ,10
 11,U.S. Food and Drug Administration,https://www.fda.gov/,Health,11
 12,Centers for Disease Control and Prevention,https://www.cdc.gov/,Health,12
 13,U.S. Environmental Protection Agency,https://www.epa.gov/,Environmental Protection,13
@@ -23,7 +23,7 @@ No.,Government Name,Website URL,Government Type,ID
 22,The Usability Government Website,https://www.usability.gov/,Social Protection,22
 23,The Texas Department of Public Safety,https://www.dps.texas.gov/,Public Order and Safety,23
 24,Texas Workforce Commission,https://www.twc.texas.gov/,Social Protection,24
-25,The Recreation Government Website,https://www.recreation.gov/,"Recreation, Culture, and Religion",25
+25,The Recreation Government Website,https://www.recreation.gov/,Recreation Culture and Religion ,25
 26,Federal Emergency Management Agency,https://www.fema.gov/,Public Order and Safety,26
 27,National Library of Medicine - National Institutes of Health,https://www.nlm.nih.gov/,Health,27
 28,Texas Department of State Health Services Mobile,https://dshs.texas.gov/,Health,28
@@ -38,7 +38,7 @@ No.,Government Name,Website URL,Government Type,ID
 37,U.S. House of Representatives,https://www.house.gov/,General Public Services,37
 38,United States Senate,https://www.senate.gov/,General Public Services,38
 39,Office of International Affairs,https://www.doi.gov/intl,General Public Services,39
-40,U.S. Department of Agriculture,https://www.usda.gov/,"Recreation, Culture, and Religion",40
+40,U.S. Department of Agriculture,https://www.usda.gov/,Recreation Culture and Religion ,40
 41,Bureau of Ocean Energy Management,https://www.boem.gov/,Economic Affairs,41
 42,National Weather Service,https://www.weather.gov/,Public Order and Safety,42
 43,U.S. Wind Turbine Database,https://eerscmap.usgs.gov/uswtdb/,Economic Affairs,43
@@ -55,7 +55,7 @@ No.,Government Name,Website URL,Government Type,ID
 54,U.S. Department of Education,https://www.ed.gov/,Education,54
 55,Freedom of Information Act,https://www.foia.gov/,Social Protection,55
 56,Health Insurance Marketplace,https://www.healthcare.gov/,Health,56
-57,National Endowment for the Arts,https://www.arts.gov/,"Recreation, Culture, and Religion",57
+57,National Endowment for the Arts,https://www.arts.gov/,Recreation Culture and Religion,57
 58,Obama White House Archives,https://obamawhitehouse.archives.gov/,General Public Services,58
 59,National Security Agency/Central Security Service,https://www.nsa.gov/,Defence,59
 60,The official website of State of Texas,https://www.texas.gov/,General Public Services,60
